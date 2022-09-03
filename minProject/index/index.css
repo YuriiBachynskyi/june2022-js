@@ -1,0 +1,40 @@
+.mainDiv {
+    background: silver;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+
+.user {
+    background: aquamarine;
+    border-radius: 50px;
+    width: 900px;
+    height: 140px;
+    margin: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.btn{
+
+    background: aqua;
+    border-radius: 5px;
+    width: 150px;
+    height: 50px;
+    font-size: medium;
+}
+
+.btn:hover{
+    background: gold
+
+}
+
+
+
+
+
